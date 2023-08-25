@@ -1,0 +1,12 @@
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.csproj.AssemblyReference.cache
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.csproj.CoreCompileInputs.cache
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CabSystem.exe.config
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CabSystem.exe
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CabSystem.pdb
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CSB.MODULE.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CSB_DATAACCESS.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CSB.MODULE.pdb
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CSB_DATAACCESS.pdb
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.csproj.CopyComplete
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.exe
+C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.pdb

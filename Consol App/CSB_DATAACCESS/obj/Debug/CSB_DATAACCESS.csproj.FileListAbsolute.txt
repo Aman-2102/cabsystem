@@ -1,0 +1,9 @@
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\bin\Debug\CSB_DATAACCESS.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\bin\Debug\CSB_DATAACCESS.pdb
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\bin\Debug\CSB.MODULE.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\bin\Debug\CSB.MODULE.pdb
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.AssemblyReference.cache
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.CopyComplete
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.pdb

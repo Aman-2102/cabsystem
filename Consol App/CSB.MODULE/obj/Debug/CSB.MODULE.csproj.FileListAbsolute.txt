@@ -1,0 +1,6 @@
+C:\Users\aman.gupta\source\repos\CabSystem\CSB.MODULE\obj\Debug\CSB.MODULE.csproj.AssemblyReference.cache
+C:\Users\aman.gupta\source\repos\CabSystem\CSB.MODULE\obj\Debug\CSB.MODULE.csproj.CoreCompileInputs.cache
+C:\Users\aman.gupta\source\repos\CabSystem\CSB.MODULE\bin\Debug\CSB.MODULE.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CSB.MODULE\bin\Debug\CSB.MODULE.pdb
+C:\Users\aman.gupta\source\repos\CabSystem\CSB.MODULE\obj\Debug\CSB.MODULE.dll
+C:\Users\aman.gupta\source\repos\CabSystem\CSB.MODULE\obj\Debug\CSB.MODULE.pdb
