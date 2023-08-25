@@ -1,19 +1,24 @@
 
-create table UserDetail (UserId int identity(1,1),UserName varchar(30),Gender nvarchar(5),WalletAmount int)
+create table UserDetail (UserId int primary key,UserName varchar(30),Gender nvarchar(5),WalletAmount int)
 
-create table DriverDetail(DriverId int identity(201,1),DriverName varchar(30),Gender nvarchar(5))
+create table DriverDetail(DriverId int primary key,DriverName varchar(30),Gender nvarchar(5))
 
-create table UserDrive(UserDriveMappingId int identity(301,1),UserId int,PickupLocationId int,DropLocationId int)
+create table UserDrive(UserDriveMappingId int primary key,UserId int foreign key references userdetail(userid)
+,PickupLocationId int foreign key references LocationMapping (LocationMappingId) ,
+DropLocationId int foreign key references LocationMapping (LocationMappingId),CancelBooking varchar(15)  )
 
-create table DriverLocation (DriverId int,DriverLocation int,Avaliablity varchar(5))
+create table DriverLocation (DriverLocationId int primary key,DriverId int foreign key references driverdetail(driverid),
+DriverLocation int,Avaliablity varchar(5))
 
-create table LocationMapping(LocationMappingId int identity(501,1),LocationName varchar(40))
+--create table LocationMapping (LocationMappingId int primary key,LocationName varchar(40))
 
-create table BookingDetail(BookingId int identity(1001,1),UserId int,DriverId int,PickupLocationId int
-,DropLocationId int ,Charge int)
-insert into UserDetail values('pankaj','M',700)
-insert into DriverDetail values('piyush','M')
-insert into UserDrive values(4,501,502)
+create table paymentType(PaymentId int primary key,PaymentType varchar(30))
+
+create table BookingDetail(BookingId int primary key ,DriverId int foreign key references driverdetail(driverid),
+UserMappingId int foreign key references UserDrive(UserDriveMappingId),Charge int,
+PaymentTypeId int foreign key references PaymentType(PaymentId) ,BookingTime datetime default getdate())
+
+
 insert into DriverLocation values(205,502,'yes')
 insert into LocationMapping values('vastrapur')
 select * from DriverDetail
