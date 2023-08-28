@@ -21,7 +21,12 @@ namespace CabSystem
             //Console.WriteLine(bookingDetail.charge);
             //Console.WriteLine(lm.id );
             //Console.ReadKey();
-            new spd().spuserdetail();
+            //new spd().spuserdetail();
+            // new DriverDetailDataAccess().InsertDriverDetail();
+            //new locationMappingDataAccess().locationmapping();
+            // new paymentTypeDataAccess().InsertPayment();
+           // new UserDriveDataAccess().InsertUserDrive();
+           new DriverLocationDataAccess().InsertDriverLocation();
         }
     }
 }

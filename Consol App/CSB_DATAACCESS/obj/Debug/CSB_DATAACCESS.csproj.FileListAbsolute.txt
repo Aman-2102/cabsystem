@@ -7,3 +7,12 @@ C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCE
 C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.CopyComplete
 C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.dll
 C:\Users\aman.gupta\source\repos\CabSystem\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.pdb
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\bin\Debug\CSB_DATAACCESS.dll
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\bin\Debug\CSB_DATAACCESS.pdb
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\bin\Debug\CSB.MODULE.dll
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\bin\Debug\CSB.MODULE.pdb
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.AssemblyReference.cache
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.CoreCompileInputs.cache
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.csproj.CopyComplete
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.dll
+D:\Git\cabsystem\Consol App\CSB_DATAACCESS\obj\Debug\CSB_DATAACCESS.pdb

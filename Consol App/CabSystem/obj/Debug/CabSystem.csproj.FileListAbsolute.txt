@@ -10,3 +10,15 @@ C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\bin\Debug\CSB_DATAACCESS.pd
 C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.csproj.CopyComplete
 C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.exe
 C:\Users\aman.gupta\source\repos\CabSystem\CabSystem\obj\Debug\CabSystem.pdb
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CabSystem.exe.config
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CabSystem.exe
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CabSystem.pdb
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CSB.MODULE.dll
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CSB_DATAACCESS.dll
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CSB.MODULE.pdb
+D:\Git\cabsystem\Consol App\CabSystem\bin\Debug\CSB_DATAACCESS.pdb
+D:\Git\cabsystem\Consol App\CabSystem\obj\Debug\CabSystem.csproj.AssemblyReference.cache
+D:\Git\cabsystem\Consol App\CabSystem\obj\Debug\CabSystem.csproj.CoreCompileInputs.cache
+D:\Git\cabsystem\Consol App\CabSystem\obj\Debug\CabSystem.csproj.CopyComplete
+D:\Git\cabsystem\Consol App\CabSystem\obj\Debug\CabSystem.exe
+D:\Git\cabsystem\Consol App\CabSystem\obj\Debug\CabSystem.pdb
