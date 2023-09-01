@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace CSB.MODULE
 {
     
-        public class DriverDetail 
+        public class locationTableModule
         {
-            public string Gender { get; set; }
-            public string drivername { get; set; }
-        }
+        public int LocationMappingId { get; set; }
+        public string LocationName { get; set; }
+    }
 
     }
 

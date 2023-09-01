@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="userDetailModule.cs" />
-    <Compile Include="driveDetailModule.cs" />
+    <Compile Include="LocationTableModule.cs" />
     <Compile Include="driveLocationModule.cs" />
     <Compile Include="userDriveModule.cs" />
     <Compile Include="LocationMappingModule.cs" />
