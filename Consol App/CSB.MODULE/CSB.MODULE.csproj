@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LoginDetailModule.cs" />
     <Compile Include="userDetailModule.cs" />
     <Compile Include="LocationTableModule.cs" />
     <Compile Include="driveLocationModule.cs" />

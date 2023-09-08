@@ -14,6 +14,7 @@ namespace CSB.MODULE
             public string Gender { get; set; }
             public int WalletAmount { get; set; }
             public int userType { get; set; }
+        public string phonenumber { get; set; }
     }
     
 }

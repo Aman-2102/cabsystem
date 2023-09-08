@@ -42,9 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="authenticationdataaccess.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="paymentTypeDataAccess.cs" />
     <Compile Include="spuserdetailDataAccess.cs" />
-    <Compile Include="driverDetailDataAccess.cs" />
     <Compile Include="DriverLocationDataAccess.cs" />
     <Compile Include="UserDriveDataAccess.cs" />
     <Compile Include="BookingDetailDataAccess.cs" />

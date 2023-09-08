@@ -13,7 +13,7 @@ namespace CSB.MODULE
             public int DriverId { get; set; }
             public int LocationId { get; set; }
             public string Avalibility { get; set; }
-
+            
         }
     
 }

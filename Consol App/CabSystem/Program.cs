@@ -25,8 +25,14 @@ namespace CabSystem
             // new DriverDetailDataAccess().InsertDriverDetail();
             //new locationMappingDataAccess().locationmapping();
             // new paymentTypeDataAccess().InsertPayment();
-           // new UserDriveDataAccess().InsertUserDrive();
-           new DriverLocationDataAccess().InsertDriverLocation();
+            // new UserDriveDataAccess().InsertUserDrive();
+            //new DriverLocationDataAccess().InsertDriverLocation();
+
+            BookingDetailDataAccess bookingDetail = new BookingDetailDataAccess();
+            bookingDetail.bookinginsert(3,100,out string aman);
+            Console.WriteLine(aman);
+            Console.ReadKey();
+
         }
     }
 }

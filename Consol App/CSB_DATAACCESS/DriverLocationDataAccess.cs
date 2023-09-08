@@ -13,7 +13,7 @@ namespace CSB_DATAACCESS
         public void InsertDriverLocation()
         {
             SqlConnection sqlConnetion = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
-            string query = "Insert into DriverLocation  values (5,5,4,'yes')";
+            string query = "Insert into DriverLocation  values (6,6,4,'yes',0)";
             SqlCommand cmd = new SqlCommand(query, sqlConnetion);
             sqlConnetion.Open();
             int rowaffected = cmd.ExecuteNonQuery();

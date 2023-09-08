@@ -11,6 +11,15 @@ namespace CSB_DATAACCESS
 {
     public class spd
     {
+       public DataTable getdata()
+        {
+            SqlConnection sqlConnetion = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
+            string query = "select * from UserDetail    ";
+            SqlDataAdapter da = new SqlDataAdapter(query, sqlConnetion);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
         public void spuserdetail()
         {
 
@@ -23,6 +32,8 @@ namespace CSB_DATAACCESS
             cmd.Parameters.Add("@UserName", SqlDbType.VarChar).Value = "laalu";
             cmd.Parameters.Add("@GENDER", SqlDbType.VarChar).Value = "m";
             cmd.Parameters.Add("@WALLETAMOUNT", SqlDbType.Int).Value = 900;
+            cmd.Parameters.Add("@usertype", SqlDbType.Int).Value = 0;
+            cmd.Parameters.Add("@phonenumber", SqlDbType.Int).Value = 546;
             cmd.Parameters.Add("@OPType", SqlDbType.VarChar).Value = "I";
             sqlconnection.Open();
             int rowaffected = cmd.ExecuteNonQuery();
